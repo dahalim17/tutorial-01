@@ -1,2 +1,3 @@
 NO.REG	: 1820010084
 Nama	: Halim Alfarizi
+Jurusan	: Teknik Informatika
